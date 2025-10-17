@@ -1,1 +1,0 @@
-/Users/daniilpanasiuk/Desktop/build_parser_by_cherniavskyi/build_parser_by_cherniavskyi/target/package/build_parser_by_cherniavskyi-0.1.0/target/debug/libbuild_parser_by_cherniavskyi.rlib: /Users/daniilpanasiuk/Desktop/build_parser_by_cherniavskyi/build_parser_by_cherniavskyi/target/package/build_parser_by_cherniavskyi-0.1.0/src/lib.rs
