@@ -1,0 +1,1 @@
+/Users/daniilpanasiuk/Desktop/build_parser_by_cherniavskyi/build_parser_by_cherniavskyi/target/debug/build_parser_by_cherniavskyi: /Users/daniilpanasiuk/Desktop/build_parser_by_cherniavskyi/build_parser_by_cherniavskyi/src/lib.rs /Users/daniilpanasiuk/Desktop/build_parser_by_cherniavskyi/build_parser_by_cherniavskyi/src/main.rs
